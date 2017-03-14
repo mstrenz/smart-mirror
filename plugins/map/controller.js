@@ -1,6 +1,6 @@
 function Map($scope, $http, GeolocationService, SpeechService, Focus) {
     var map = {};
-    map.center = "Seattle, WA"; //default map locaiton
+    map.center = "Denver, CO";
     map.zoom = 13; //default zoom is 13
 
     // Get the current location of the mirror
