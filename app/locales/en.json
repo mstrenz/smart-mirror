@@ -115,6 +115,16 @@
             "voice": "Show xkcd",
             "description": "Shows the most recent xkcd comic."
         },
+        "image_princess": {
+            "text": "Who is the fairest of them all",
+            "voice": "Who is the fairest of them all",
+            "description": "Shows the princess image."
+        },
+        "jenkins_build": {
+            "text": "Trigger CCWS Test",
+            "voice": "Trigger CCWS Test",
+            "description": "Runs test against ccws production"
+        },
         "image_comic_dilbert": {
             "text": "Show Dilbert comic",
             "voice": "Show Dilbert (comic)",
